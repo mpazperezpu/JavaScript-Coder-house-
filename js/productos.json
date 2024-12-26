@@ -1,0 +1,65 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Pizza Muzzarella",
+        "precio": 5500,
+        "imagen":"./IMG/88f9f037-0980-4eb9-beca-7a2f3c91c59c.JPG",
+        "categoria":{
+            "nombre":"Pizza",
+            "id":"Pizzas"
+        }
+        
+    },
+    {
+        "id": 2,
+        "nombre": "Pizza Fugazzeta",
+        "precio": 6200,
+        "imagen":"./IMG/88f9f037-0980-4eb9-beca-7a2f3c91c59c.JPG",
+        "categoria":{
+            "nombre":"Pizza",
+            "id":"Pizzas"
+        }
+
+    },
+    {
+        "id": 3,
+        "nombre": "Pizza Napolitana",
+        "precio": 6500,
+        "imagen":"./IMG/88f9f037-0980-4eb9-beca-7a2f3c91c59c.JPG",
+        "categoria":{
+            "nombre":"Pizza",
+            "id":"Pizzas"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Empanadas por Docena",
+        "precio": 9500,
+        "imagen":"./IMG/88f9f037-0980-4eb9-beca-7a2f3c91c59c.JPG",
+        "categoria":{
+            "nombre":"Empanadas",
+            "id":"Empanadas"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Empanadas por Media Docena",
+        "precio": 5000,
+        "imagen":"./IMG/88f9f037-0980-4eb9-beca-7a2f3c91c59c.JPG",
+        "categoria":{
+            "nombre":"Empanadas",
+            "id":"Empanadas"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Empanadas ",
+        "precio": 1000,
+        "imagen":"./IMG/88f9f037-0980-4eb9-beca-7a2f3c91c59c.JPG",
+        "categoria":{
+            "nombre":"Empanadas",
+            "id":"Empanadas"
+        }
+    }
+]
